@@ -1,0 +1,17 @@
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/ToList-POC
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/ToList-POC.deps.json
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/ToList-POC.runtimeconfig.json
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/ToList-POC.dll
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/ToList-POC.pdb
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.csproj.AssemblyReference.cache
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.AssemblyInfoInputs.cache
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.AssemblyInfo.cs
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.csproj.CoreCompileInputs.cache
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.dll
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/refint/ToList-POC.dll
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.pdb
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.genruntimeconfig.cache
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ref/ToList-POC.dll
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/igor/Documents/projects/ToList-POC/ToList-POC/obj/Debug/net7.0/ToList-POC.csproj.CopyComplete

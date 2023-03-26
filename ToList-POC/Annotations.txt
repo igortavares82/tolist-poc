@@ -1,0 +1,1260 @@
+﻿
+https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/
+https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/
+
+
+{"success":true,"data":{"results":"<a href=\"https:\/\/www.pingodoce.pt\/produtos\/marca-propria-pingo-doce\/pingo-doce\/arroz-agulha-uruguai-pingo-doce-1kg\/\"><strong>Arroz<\/strong> Agulha Uruguai Pingo Doce 1kg<\/a><a href=\"https:\/\/www.pingodoce.pt\/produtos\/marca-propria-pingo-doce\/activpet\/trinca-de-arroz-activpet-5kg\/\">Trinca de <strong>Arroz<\/strong> ActivPet 5kg<\/a><a href=\"https:\/\/www.pingodoce.pt\/produtos\/marca-propria-pingo-doce\/activpet\/trinca-de-arroz-activpet-1kg\/\">Trinca de <strong>Arroz<\/strong> ActivPet 1kg<\/a><a href=\"https:\/\/www.pingodoce.pt\/produtos\/marca-propria-pingo-doce\/pingo-doce\/arroz-risotto-pingo-doce-1kg\/\"><strong>Arroz<\/strong> Risotto Pingo Doce 1kg<\/a><a href=\"https:\/\/www.pingodoce.pt\/produtos\/marca-propria-pingo-doce\/pingo-doce\/arroz-carolino-pingo-doce-1kg\/\"><strong>Arroz<\/strong> Carolino Pingo Doce 1kg<\/a>"}}
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="utf-8">
+	<title>Arroz Agulha Uruguai Pingo Doce 1kg | Produtos | Pingo Doce</title>
+
+	<!-- Viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Fix Internet Explorer 10 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- Meta tags adicionais -->
+	<meta property="og:site_name" content="Pingo Doce">
+	<meta name="theme-color" content="#121212">
+	<meta name="p:domain_verify" content="aaff454c4b8764833864013ea22ce8b2">
+	<meta name="msapplication-TileColor" content="#f01d4f">
+	<meta name="msapplication-TileImage" content="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/images/win8-tile-icon.png">
+
+	<!-- Favicon e icon mobile -->
+	<link rel="apple-touch-icon" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/images/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/favicon.ico">
+
+	<!-- Tag verificação Google Search Console e FB -->
+	<meta name="google-site-verification" content="lRqzbA3VeoAJk3jMdbHU-zsFGyVnSndW5J1nN8aj9rE">
+	<meta name="facebook-domain-verification" content="e19esa1psmwtdihxrkkbv71mjcbmx4" />
+
+	<!-- Código legacy de JS -->
+	<script>
+		var wpurl = 'https://www.pingodoce.pt';
+		var AjaxObj = {
+			ajaxurl: 'https://www.pingodoce.pt/wp-content/themes/pingodoce/ajax/pd-ajax.php'
+		}
+	</script>
+
+	<meta name="facebook-domain-verification" content="e19esa1psmwtdihxrkkbv71mjcbmx4" />
+	<!-- Restante head do Wordpress -->
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Encontre Arroz Agulha Uruguai Pingo Doce 1kg num Pingo Doce perto de si, ao melhor preço que a qualidade pode ter. Saiba mais sobre este produto."/>
+<link rel="canonical" href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/" />
+<meta property="og:locale" content="pt_PT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Arroz Agulha Uruguai Pingo Doce 1kg | Produtos | Pingo Doce" />
+<meta property="og:description" content="Encontre Arroz Agulha Uruguai Pingo Doce 1kg num Pingo Doce perto de si, ao melhor preço que a qualidade pode ter. Saiba mais sobre este produto." />
+<meta property="og:url" content="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/" />
+<meta property="og:site_name" content="Pingo Doce" />
+<meta property="og:image" content="https://www.pingodoce.pt/wp-content/uploads/2019/09/social_omissao.jpg" />
+<meta property="og:image:secure_url" content="https://www.pingodoce.pt/wp-content/uploads/2019/09/social_omissao.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Encontre Arroz Agulha Uruguai Pingo Doce 1kg num Pingo Doce perto de si, ao melhor preço que a qualidade pode ter. Saiba mais sobre este produto." />
+<meta name="twitter:title" content="Arroz Agulha Uruguai Pingo Doce 1kg | Produtos | Pingo Doce" />
+<meta name="twitter:image" content="https://www.pingodoce.pt/wp-content/uploads/2019/09/social_omissao.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.pingodoce.pt/#organization","name":"Pingo Doce","url":"https://www.pingodoce.pt/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.pingodoce.pt/#logo","url":"https://www.pingodoce.pt/wp-content/uploads/2019/01/logo-pd.jpg","width":117,"height":44,"caption":"Pingo Doce"},"image":{"@id":"https://www.pingodoce.pt/#logo"}},{"@type":"WebSite","@id":"https://www.pingodoce.pt/#website","url":"https://www.pingodoce.pt/","name":"Pingo Doce","publisher":{"@id":"https://www.pingodoce.pt/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.pingodoce.pt/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/#webpage","url":"https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg/","inLanguage":"pt-PT","name":"Arroz Agulha Uruguai Pingo Doce 1kg | Produtos | Pingo Doce","isPartOf":{"@id":"https://www.pingodoce.pt/#website"},"datePublished":"2015-12-08T12:40:09+00:00","dateModified":"2023-03-17T13:02:20+00:00","description":"Encontre Arroz Agulha Uruguai Pingo Doce 1kg num Pingo Doce perto de si, ao melhor pre\u00e7o que a qualidade pode ter. Saiba mais sobre este produto."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='https://api.w.org/' href='https://www.pingodoce.pt/wp-json/' />
+<link rel='shortlink' href='https://www.pingodoce.pt/?p=45137' />
+<link rel="alternate" type="application/json+oembed" href="https://www.pingodoce.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.pingodoce.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F&#038;format=xml" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3TW89');</script>
+<!-- End Google Tag Manager -->
+		        <!-- branch IO code -->
+        <script>
+            (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+            branch.init('key_live_ncDQl9Q32cVsIcD24QGOAcchuye6kkev');
+        </script>
+        <!-- end branch IO code -->
+        <!--[if lte IE 9]><link rel="stylesheet" href="https://www.pingodoce.pt/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style>.inv-recaptcha-holder{
+display:none;
+}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	 
+	<!-- Load main stylesheet -->
+			<link rel="stylesheet" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/styles/v2-app-92eb919870.css ">
+	
+
+	
+	
+	<link rel="preload" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/fonts/jost-400.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/fonts/jost-600.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/fonts/jost-700.woff2" as="font" type="font/woff2" crossorigin>
+
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NFK3LMS');
+	</script>
+
+</head>
+
+<body>
+
+<!-- Header desktop -->
+<div class="main-header">
+
+    <div class="pre-header">
+        <div class="container">
+            <div class="left-area">
+                <div class="top-bar">
+
+			<a href="#maincontent" class="accessibility-navigation">Navegação</a>
+		<a href="/pingodoce-institucional/">Sobre nós</a>
+		<a href="/responsabilidade/">Responsabilidade</a>
+		<a href="/junte-se-a-nos/">Junte-se a nós</a>
+	
+</div>
+            </div>
+            <div class="right-area">
+                <div class="top-bar">
+
+	
+        <a class="pm" href="/app-o-meu-pingo-doce/"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/ompd_icon.png" width="28" height="16" alt="O Meu Pingo Doce">O Meu Pingo Doce</a>
+
+		<a class="food" href="/produtos/take-away/encomendas/" data-gaevent="Clique|Take Away|Botao TA header"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/header-food.svg" width="24" height="24" alt="Comprar online">Encomendar comida</a>
+
+		<a class="cart" href="https://mercadao.pt/store/pingo-doce?utm_source=pingo-doce&utm_medium=botao-comprar-online&utm_campaign=referencia-pingo-doce" target="_blank" rel="noopener" data-gaevent="Clique|Mercadao|Botao mercadao"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/header-cart.svg" width="24" height="24" alt="Comprar online">Comprar online</a>
+
+
+	
+</div>
+            </div>
+        </div>
+    </div>
+
+	<div class="container">
+
+
+		<div class="left-area">
+			<div class="bottom-bar">
+				<div class="menu">
+			<a href="/produtos/">Produtos</a>
+		<a href="/receitas/">Receitas</a>
+		<a href="/folhetos/">Folhetos</a>
+		<a href="/lojas/">Lojas</a>
+	</div>			</div>
+		</div>
+
+		<div class="center-area"><a href="/"><img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/2023/01/logo_pingo_doce_header_dsk.jpg" width="198" height="60" alt="Pingo Doce">
+</a></div>
+
+		<div class="right-area">
+
+			<div class="bottom-bar">
+				<div class="menu">
+					<div class="menu">
+			<a href="/apoio-ao-cliente/">Apoio ao cliente</a>
+	</div>				</div>
+                <form method="get" action="/" class="search-sitewide js-search-sitewide-form  " autocomplete="off">
+	<div class="input-wrapper ">
+		<input type="text" name="s" placeholder="Pesquisar" aria-label="Pesquisar" value="" class="js-search-term-container">
+        <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/close-white.svg" alt="Fechar pesquisa" class="search-clear js-clear-search">
+		<button type="submit" aria-label="Pesquisar"></button>
+	</div>
+	<div class="autocomplete-container js-autocomplete-results"></div>
+</form>
+				<div class="side-icons">
+					<!--<span class="search-toggle js-toggle-search-bar">
+                		<img src="/wp-content/themes/pingodoce/library/images/v2/icon-search.svg" width="24" height="24" alt="Pesquisa" class="search">
+                		<img src="/wp-content/themes/pingodoce/library/images/v2/icon-close.svg" width="24" height="24" alt="Pesquisa" class="close">
+            		</span>
+					-->
+					<a href="/login/">
+						<img src="/wp-content/themes/pingodoce/library/images/v2/icon-user.svg" class="user-icon js-user-icon" width="24" height="24" alt="Área de Utilizador">
+						<img src="/wp-content/themes/pingodoce/library/images/v2/icon-user.svg" class="user-icon hidden js-user-icon-logged-in" width="24" height="24" alt="Área de Utilizador">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- Header mobile -->
+<div class="main-header-mobile">
+	<div class="menu-icon">
+		<div class="mobile-menu-icon js-toggle-mobile-menu">
+			<div class="box">
+				<div class="inner"></div>
+			</div>
+		</div>
+	</div>
+	<a class="logo" href="/" aria-label="Pingo Doce"><img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/2023/01/logo_pingo_doce_header_mobile.jpg" width="107" height="32" alt="Pingo Doce">
+</a>
+	<div class="side-icons">
+		<span class="search-toggle js-toggle-search-bar">
+            <img class="search" src="/wp-content/themes/pingodoce/library/images/v2/icon-search.svg" width="32" height="32" alt="Pesquisa">
+            <img class="close" src="/wp-content/themes/pingodoce/library/images/v2/icon-close.svg" width="32" height="32" alt="Pesquisa">
+        </span>
+		<a href="/login/">
+			<img src="/wp-content/themes/pingodoce/library/images/v2/icon-user.svg" class="user-icon js-user-icon" width="32" height="32" alt="Área de Utilizador">
+			<img src="/wp-content/themes/pingodoce/library/images/v2/icon-user-active.svg" class="user-icon hidden js-user-icon-logged-in" width="32" height="32" alt="Área de Utilizador">
+		</a>
+	</div>
+
+    <form method="get" action="/" class="search-sitewide js-search-sitewide-form  mobile" autocomplete="off">
+	<div class="input-wrapper ">
+		<input type="text" name="s" placeholder="Pesquisar" aria-label="Pesquisar" value="" class="js-search-term-container">
+        <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/close-white.svg" alt="Fechar pesquisa" class="search-clear js-clear-search">
+		<button type="submit" aria-label="Pesquisar"></button>
+	</div>
+	<div class="autocomplete-container js-autocomplete-results"></div>
+</form>
+
+
+</div>
+
+<!-- Menu mobile -->
+<div class="mobile-menu js-mobile-menu">
+
+	<div>
+		<ul class="mobile-menu-entries">
+			<li id="menu-item-236493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236493"><a href="/produtos/">Produtos</a></li>
+<li id="menu-item-236491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236491"><a href="/receitas/">Receitas</a></li>
+<li id="menu-item-236499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236499"><a href="/folhetos/">Folhetos</a></li>
+<li id="menu-item-236498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236498"><a href="/lojas/">Lojas</a></li>
+<li id="menu-item-444552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444552"><a href="/apoio-ao-cliente/">Apoio ao Cliente</a></li>
+		</ul>
+
+        <a class="pm" href="/app-o-meu-pingo-doce/"><img src="/wp-content/themes/pingodoce/library/images/v2/ompd_icon.png" width="28" height="16" alt="O Meu Pingo Doce">O Meu Pingo Doce</a>
+	</div>
+
+	<div class="bottom-links-menu">
+			<ul class="expandable-items js-expandable-mobile-menu-items">
+			<li>
+				<a href="/sobre-nos/">Sobre nós</a> <span class="arrow"></span>
+				<ul class="subitems">
+					<li><a href="/junte-se-a-nos/" class="main-links">Junte-se a nós</a></li>
+					<li><a href="/pingodoce-institucional/revista-sabe-bem/" class="main-links">Revista Sabe Bem</a>
+					</li>
+					<li><a href="/sobre-nos/cartao-poupa-mais/" class="main-links">Cartão Poupa
+							Mais</a></li>
+					<li><a href="/sobre-nos/cartao-presente-pingo-doce/" class="main-links">Cartão
+							Presente</a></li>
+					<li><a href="/sobre-nos/cartao-bom-pingo-doce/" class="main-links">Cartão
+							Bom</a></li>
+					<li><a href="/sobre-nos/noticias/" class="main-links">Notícias</a></li>
+					<li><a href="https://www.jeronimomartins.com" class="main-links" target="_blank" rel="noopener">O grupo Jerónimo
+							Martins</a></li>
+					<li><a href="/responsabilidade/premio-literatura-infantil/" class="main-links">Prémio Literatura Infantil</a></li>
+
+				</ul>
+			</li>
+			<li><a href="/responsabilidade/">Responsabilidade</a> <span class="arrow"></span>
+				<ul class="subitems">
+					<li><a href="/responsabilidade/pedido-apoio" class="main-links">Pedido de Apoio</a></li>
+
+					<li><a href="/responsabilidade/#pilares-1" class="main-links">Promover a saúde pela alimentação</a><span class="arrow"></span>
+						<ul class="subitems">
+							<li><a href="https://menossalportugal.pt/" target="_blank" rel="noopener" class="main-links">Menos Sal Portugal</a></li>
+							<li><a href="/responsabilidade/dieta-mediterranica/" class="main-links">Dieta Mediterrânica</a></li>
+						</ul>
+					</li>
+
+					<li><a href="/responsabilidade/#pilares-2" class="main-links">Preservar a Biodiversidade</a><span class="arrow"></span>
+						<ul class="subitems">
+							<li><a href="/responsabilidade/amar-o-mar/" target="_blank" rel="noopener" class="main-links">Amar o Mar</a></li>
+							<li><a href="/responsabilidade/ecodesign-embalagens/" class="main-links">Ecodesign de Embalagens</a></li>
+						</ul>
+					</li>
+
+					<li><a href="/responsabilidade/#pilares-3" class="main-links">Compromisso com as pessoas</a><span class="arrow"></span>
+						<ul class="subitems">
+							<li><a href="/responsabilidade/bairro-feliz/" target="_blank" rel="noopener" class="main-links">Bairro Feliz</a></li>
+						</ul>
+					</li>
+
+					<li><a href="/responsabilidade/#pilares-4" class="main-links">Promover a literacia infanto-juvenil</a><span class="arrow"></span>
+						<ul class="subitems">
+							<li><a href="/premio-literatura-infantil/" target="_blank" rel="noopener" class="main-links">Prémio de Literatura Infantil</a></li>
+						</ul>
+					</li>
+
+					<li><a href="/responsabilidade/#pilares-5" class="main-links">Ser solidário</a></li>
+				</ul>
+			</li>
+			<li><a href="/junte-se-a-nos/">Junte-se a nós</a> <span class="arrow"></span>
+				<ul class="subitems">
+					<li><a href="/junte-se-a-nos/oportunidades/" class="main-links">Oportunidades</a></li>
+					<li><a href="/junte-se-a-nos/perguntas-respostas/" class="main-links">Perguntas e respostas</a></li>
+				</ul>
+			</li>
+		</ul>
+		<div class="side-by-side">
+			<a class="food" href="/produtos/take-away/encomendas/"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/header-food.svg" width="24" height="24" alt="Comprar online">Encomendar comida</a>
+			<a class="cart" href="https://mercadao.pt/store/pingo-doce?utm_source=pingo-doce&utm_medium=botao-comprar-online&utm_campaign=referencia-pingo-doce" target="_blank" rel="noopener"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/header-cart.svg" width="24" height="24" alt="Comprar online">Comprar online</a>
+		</div>
+	</div>
+</div>
+<!-- OneTrust Cookies Consent Notice start for pingodoce.pt -->
+<script src=https://cdn.cookielaw.org/consent/f935a1c2-ed41-4c2d-bdf4-9d73a96e6ba5/OtAutoBlock.js ></script>
+<script src=https://cdn.cookielaw.org/scripttemplates/otSDKStub.js data-document-language="true" charset="UTF-8" data-domain-script="f935a1c2-ed41-4c2d-bdf4-9d73a96e6ba5" ></script>
+<script>
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for pingodoce.pt -->	<main id="maincontent">
+    <div style="margin-bottom: 30px">
+        <div class="breadcrumbs-v2__wrapper" style="">
+    <div class="container breadcrumbs-v2 js-breadcrumbs ">
+        <ul class="breadcrumbs-v2-area">
+                            <li class="">
+                                        <a href="/">
+                        
+                        Home
+                                            </a>
+
+
+                                </li>
+                            <li class="">
+                                        <a href="https://www.pingodoce.pt/produtos/">
+                        
+                        Produtos
+                                            </a>
+
+
+                                </li>
+                            <li class="">
+                                        <a href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/">
+                        
+                        As Nossas Marcas
+                                            </a>
+
+
+                                </li>
+                            <li class="">
+                                        <a href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/">
+                        
+                        Pingo Doce
+                                            </a>
+
+
+                                </li>
+                            <li class="active">
+                    
+                        Arroz Agulha Uruguai Pingo Doce 1kg
+                                        </li>
+                    </ul>
+    </div>
+
+
+	        <div class="container breadcrumbs-v2 mobile--only js-breadcrumbs ">
+            <ul class="breadcrumbs-v2-area">
+                <li>
+                    <a href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/">
+                        <img src="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/images/arrow-right-black.png" alt="" width="4" height="10" loading="lazy">
+                        Pingo Doce                    </a>
+                </li>
+            </ul>
+        </div>
+	</div>    </div>
+    <div class="container">
+        <div class="row">
+            <div class="data-product-details col-xs-12">
+                <div class="product-details__wrapper">
+                    <div class="product-details-left-side">
+                        <div class="product-details__content">
+
+                            <div class="product-details__seo">
+                                <h1 class="product-details__title">Arroz Agulha Uruguai Pingo Doce 1kg</h1>
+                                <h2 class="product-details__brand">Pingo Doce</h2>
+                            </div>
+
+                            <div class="product-details-prices__content-agreggator">
+                                                                    <span class="product-details_price">1,29€ / <span>UN</span></span>
+                                                            </div>
+                            <div class="product-details-prices__content-agreggator">
+                                                            </div>
+                            <div class="product-details__description-content">
+                                                                    <p class="product-details__description">O Arroz Agulha Uruguai Pingo Doce é uma variedade de grão muito fino e longo. Procurado pelos bons apreciadores, resulta num arroz mais solto, ideal para preparação das mais variadas receitas.  Escolha o nosso arroz agulha para um arroz leve e  sempre seco.</p>
+                                                                                            </div>
+                            <div class="product-details__social-media-container-mobile">
+                                <div class="social-media-wrapper">
+    <p class="social-media-wrapper__text">
+        Partilhe esta página
+    </p>
+    <div class="social-media-wrapper__icons">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+            <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/facebook-icon.png" width="30" height="30" alt="Facebook">
+        </a>
+        <a href="mailto:?subject=Este%20produto%20Pingo%20Doce%20vai%20dar%20que%20falar!&body=De%20todo%20os%20nossos%20favoritos%20escolhemos%20partilhar%20este%20produto%20consigo.%20Descubra-o%20na%20sua%20loja%20Pingo%20Doce.%20https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+            <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/email-icon.png" width="30" height="30" alt="Email">
+        </a>
+        <a href="whatsapp://send?text=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+			<img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/whatsapp-icon.png" width="30" height="30" alt="Whatsapp">
+		</a>
+		<a href="fb-messenger://share/?link=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+			<img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/messenger-icon.png" width="30" height="30" alt="Messenger">
+		</a>
+    </div>
+</div>                            </div>
+                            <div class="container container__accordion js-product-details-accordion"
+                                 data-results-accordion>
+                                <div class="accordion__container js-accordion">
+                                                                            <button class="accordion ingredient-product-detail">Ingredientes</button>
+                                        <div class="panel">
+                                            <p>arroz extra longo agulha branqueado</p>
+                                        </div>
+                                                                                                                                                    <button class="accordion nutritionalTable-product-details">Tabela nutricional
+                                        </button>
+                                        <div class="panel">
+
+                                                                                            <table class="nutritional-table">
+    <caption class="hidden">Declaração nutricional</caption>
+	<thead>
+	<tr>
+		<th class="header" colspan="2">Por 100 g</th>
+	</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<td class="label level-0">
+				ENERGIA			</td>
+			<td class="value level-0">
+				1513 kJ / 356 kcal			</td>
+		</tr>
+			<tr>
+			<td class="label level-0">
+				Lípidos			</td>
+			<td class="value level-0">
+				0,7 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-1">
+				Dos quais saturados			</td>
+			<td class="value level-1">
+				0,3 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-0">
+				Hidratos de carbono			</td>
+			<td class="value level-0">
+				79,3 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-1">
+				Dos quais açúcares			</td>
+			<td class="value level-1">
+				0,1 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-0">
+				Fibras			</td>
+			<td class="value level-0">
+				2,1 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-0">
+				Proteínas			</td>
+			<td class="value level-0">
+				7,2 g			</td>
+		</tr>
+			<tr>
+			<td class="label level-0">
+				Sal			</td>
+			<td class="value level-0">
+				0,1 g			</td>
+		</tr>
+		</tbody>
+</table>
+                                                                                                                                                                                    
+                                        </div>
+                                                                                                        </div>
+                            </div>
+                            
+
+                        </div>
+
+
+                    </div>
+                    <div class="product-details-right-side">
+                                                <div class="product-details__image-container">
+                                                                                        <img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/products/large/719536-c1af00d7cce1ffc43c597973256698fa.jpg" class="product-details__image" alt="">
+                                                    </div>
+                                                <div class="product-details__social-media-container">
+                            <div class="social-media-wrapper">
+    <p class="social-media-wrapper__text">
+        Partilhe esta página
+    </p>
+    <div class="social-media-wrapper__icons">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+            <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/facebook-icon.png" width="30" height="30" alt="Facebook">
+        </a>
+        <a href="mailto:?subject=Este%20produto%20Pingo%20Doce%20vai%20dar%20que%20falar!&body=De%20todo%20os%20nossos%20favoritos%20escolhemos%20partilhar%20este%20produto%20consigo.%20Descubra-o%20na%20sua%20loja%20Pingo%20Doce.%20https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+            <img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/email-icon.png" width="30" height="30" alt="Email">
+        </a>
+        <a href="whatsapp://send?text=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+			<img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/whatsapp-icon.png" width="30" height="30" alt="Whatsapp">
+		</a>
+		<a href="fb-messenger://share/?link=https%3A%2F%2Fwww.pingodoce.pt%2Fprodutos%2Fmarca-propria-pingo-doce%2Fpingo-doce%2Farroz-agulha-uruguai-pingo-doce-1kg%2F" target="_blank">
+			<img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/messenger-icon.png" width="30" height="30" alt="Messenger">
+		</a>
+    </div>
+</div>                        </div>
+                    </div>
+                </div>
+                                    <div class="product-recycling js-product-recycling">
+                        <div class="product-recycling-header">
+                            <h4 class="title">Sobre este produto</h4>
+                        </div>
+                        <div class="product-recycling-tab-header">
+                                                            <div class="product-recycling-tab-element tab-header-title js-product-recycling-tab" data-for="separation">Separação de embalagens</div>
+                                                                                </div>
+                        <div class="product-recycling-tab-container">
+                                                            <div class="tab js-product-recycling-tab-container" data-for="separation">
+                                    <div class="tab-header-title " data-for="separation">Separação de embalagens</div>
+                                                                                                                        <div class="element">
+                                                <p class=""><strong>1</strong>. Retire os restos de produto.</p>
+                                                                                            </div>
+                                                                                                                                                                <div class="element">
+                                                <p class="with-icon"><strong>2</strong>. Coloque a bolsa no ecoponto amarelo.</p>
+                                                                                                    <div class="icon-container">
+                                                        <img loading="lazy" src="/wp-content/uploads/2020/09/ico-recicla-plastico-metal.png" alt="">
+                                                        <span>Plástico e metal</span>
+                                                    </div>
+                                                                                            </div>
+                                                                                                            </div>
+                                                                                </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+
+    <div class="after-container__slider">
+        <!--associated product component-->
+        <div class="row">
+            <div class="data-product-details-slider col-xs-12" data-results-slider>
+                <section class="product-details-slider__container">
+    <h3 class="product-details-slider__title">Veja outros produtos desta marca</h3>
+    <div class="product-details-slider__content glide js-product-details-slider">
+		<div class="glide__track" data-glide-el="track">
+			<ul class="glide__slides">
+									<li class="glide__slide"><div class="product-cards 501979 ">
+
+    <a  href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/massa-fusilli-de-grao-de-bico-pingo-doce-250-g/" class="product-cards__link">
+
+        <div class="product-cards__image-container">
+                            <img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/products/thumbnail/945225-0d035933746b1dc7cc2f83aa03d5a578.jpg" class="product-cards__image" alt="Massa Fusilli de Grão-de-Bico Pingo Doce 250 g" width="200">
+                    </div>
+
+        
+        <div class="product-cards__content">
+
+                                                        
+
+
+
+
+                            <span class="product-cards__new alone">
+                    NOVO
+                </span>
+            
+
+
+            
+
+
+            <div class="product-cards-title__content-agreggator">
+                <h3 class="product-cards__title">Massa Fusilli de Grão-de-Bico Pingo Doce 250 g</h3>
+            </div>
+
+            <div class="product-cards-prices__content-agreggator">
+                                    <!--$price always exist-->
+                    <span class="product-cards_price">1,79&euro; / UN</span>
+                            </div>
+
+        </div>
+
+                <div class="product-cards__link-details">
+            <span class="pd-v2-link">Ver detalhe</span>
+        </div>
+        
+
+        
+    </a>
+</div>
+
+</li>
+									<li class="glide__slide"><div class="product-cards 501978 ">
+
+    <a  href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/massa-penne-de-lentilha-vermelha-pingo-doce-250-g/" class="product-cards__link">
+
+        <div class="product-cards__image-container">
+                            <img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/products/thumbnail/945224-0d277796d7cf49d557f2e7d6619876c2.jpg" class="product-cards__image" alt="Massa Penne de Lentilha Vermelha Pingo Doce 250 g" width="200">
+                    </div>
+
+        
+        <div class="product-cards__content">
+
+                                                        
+
+
+
+
+                            <span class="product-cards__new alone">
+                    NOVO
+                </span>
+            
+
+
+            
+
+
+            <div class="product-cards-title__content-agreggator">
+                <h3 class="product-cards__title">Massa Penne de Lentilha Vermelha Pingo Doce 250 g</h3>
+            </div>
+
+            <div class="product-cards-prices__content-agreggator">
+                                    <!--$price always exist-->
+                    <span class="product-cards_price">1,79&euro; / UN</span>
+                            </div>
+
+        </div>
+
+                <div class="product-cards__link-details">
+            <span class="pd-v2-link">Ver detalhe</span>
+        </div>
+        
+
+        
+    </a>
+</div>
+
+</li>
+									<li class="glide__slide"><div class="product-cards 45135 ">
+
+    <a  href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-europa-pingo-doce-1kg/" class="product-cards__link">
+
+        <div class="product-cards__image-container">
+                            <img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/products/thumbnail/651178-1dca99cc1b7b906416cf7b9713f9ebcb.jpg" class="product-cards__image" alt="Arroz Agulha Europa Pingo Doce 1kg" width="200">
+                    </div>
+
+        
+        <div class="product-cards__content">
+
+                                                        
+
+
+
+
+            
+
+
+            
+
+
+            <div class="product-cards-title__content-agreggator">
+                <h3 class="product-cards__title">Arroz Agulha Europa Pingo Doce 1kg</h3>
+            </div>
+
+            <div class="product-cards-prices__content-agreggator">
+                                    <!--$price always exist-->
+                    <span class="product-cards_price">1,19&euro; / UN</span>
+                            </div>
+
+        </div>
+
+                <div class="product-cards__link-details">
+            <span class="pd-v2-link">Ver detalhe</span>
+        </div>
+        
+
+        
+    </a>
+</div>
+
+</li>
+									<li class="glide__slide"><div class="product-cards 467737 ">
+
+    <a  href="https://www.pingodoce.pt/produtos/marca-propria-pingo-doce/pingo-doce/arroz-agulha-uruguai-pingo-doce-1kg-25-gratis/" class="product-cards__link">
+
+        <div class="product-cards__image-container">
+                            <img loading="lazy" src="https://www.pingodoce.pt/wp-content/uploads/products/thumbnail/821631-c46eb9aa4f165fb5cc352bcb3b2f3e2c.jpg" class="product-cards__image" alt="Arroz Agulha Uruguai Pingo Doce 1kg + 25% Grátis" width="200">
+                    </div>
+
+        
+        <div class="product-cards__content">
+
+                                                        
+
+
+
+
+            
+
+
+            
+
+
+            <div class="product-cards-title__content-agreggator">
+                <h3 class="product-cards__title">Arroz Agulha Uruguai Pingo Doce 1kg + 25% Grátis</h3>
+            </div>
+
+            <div class="product-cards-prices__content-agreggator">
+                                    <!--$price always exist-->
+                    <span class="product-cards_price">1,29&euro; / UN</span>
+                            </div>
+
+        </div>
+
+                <div class="product-cards__link-details">
+            <span class="pd-v2-link">Ver detalhe</span>
+        </div>
+        
+
+        
+    </a>
+</div>
+
+</li>
+							</ul>
+		</div>
+		<div class="glide__bullets" data-glide-el="controls[nav]">
+							<span class="glide__bullet" data-glide-dir="=0"></span>
+							<span class="glide__bullet" data-glide-dir="=1"></span>
+							<span class="glide__bullet" data-glide-dir="=2"></span>
+							<span class="glide__bullet" data-glide-dir="=3"></span>
+					</div>
+    </div>
+
+    </section>
+            </div>
+        </div>
+    </div>
+</main>
+
+        
+		<div class="newsletter-modal js-newsletter-modal">
+	<div class="content">
+
+		<form action="/" method="post" novalidate="novalidate" class="js-newsletter-form">
+
+			<div class="close-modal js-newsletter-hide-modal"></div>
+
+            <div class="newsletter-submission js-newsletter-submission-container">
+
+                <div class="inner-container">
+                    <div class="left">
+                        <div class="newsletter-title">Newsletter no seu email!</div>
+                        <div class="select-newsletter">
+                            <div class="checkbox-wrapper">
+                                <input type="checkbox" name="folhetos" value="1">
+                            </div>
+                            <div class="details">
+                                <div class="title">Newsletter Promoções</div>
+                                <div class="description">Receba os nossos folhetos e conheça as nossas melhores promoções</div>
+								<img src="https://www.pingodoce.pt/wp-content/uploads/2018/02/save_this_week_newsletter.png" width="220" height="75" alt="" loading="lazy">
+                            </div>
+                        </div>
+                        <div class="select-newsletter">
+                            <div class="checkbox-wrapper">
+                                <input type="checkbox" name="inspiracoes" value="1">
+                            </div>
+                            <div class="details">
+                                <div class="title">Newsletter Sabe Bem</div>
+                                <div class="description">As nossas melhores receitas e ideias essenciais para o seu dia a dia</div>
+								<img src="https://www.pingodoce.pt/wp-content/uploads/2022/04/logo_250x70_verde.png" width="220" height="75" alt="" loading="lazy">
+                            </div>
+                        </div>
+                        <div class="error-message js-newsletter-error-message error-terms" data-for="newsletter">Deve escolher uma newsletter</div>
+                    </div>
+                    <div class="right">
+
+                        <label for="nl-email" class="strong">
+                            E-mail*                        </label>
+                        <input type="email" name="email" id="nl-email" class="modal-input">
+                        <div class="error-message negative-margin js-newsletter-error-message" data-for="email">Por favor preencha o campo obrigatório.</div>
+                        <label for="nl-zipcode" class="strong">
+                            Código postal*                        </label>
+                        <input type="text" id="nl-zipcode" name="zipcode" class="modal-input js-input-postal-code">
+                        <div class="error-message negative-margin js-newsletter-error-message" data-for="zipcode">Por favor preencha o campo obrigatório.</div>
+                        <div class="informational">Obrigatório na subscrição da newsletter de promoções</div>
+
+
+                        <div class="terms">
+                            <input type="checkbox" name="terms" value="1" class="terms" id="nl-terms">
+
+                            <label for="nl-terms">
+                                <span>Autorizo o tratamento dos meus dados pessoais nos termos da <a target="_blank" href="/termos-condicoes/#dadospessoais"> Política de Proteção de Dados Pessoais</a>.</span>
+                            </label>
+                            <div class="error-message js-newsletter-error-message error-terms" data-for="terms">Por favor aceite os termos para prosseguir.</div>
+                        </div>
+
+
+
+                        <div class="informational no--fix">* Campos obrigatórios</div>
+
+                        <div class="buttons js-newsletter-buttons-aggregator">
+                            <input type="button" class="js-newsletter-hide-modal button-v2 outlined grey" value="Cancelar">
+                            <input type="submit" class="js-newsletter-confirm newsletter-confirm button-v2 filled green" value="Subscrever">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="newsletter-success js-newsletter-success-container hidden">
+                <img src="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/images/v2/icon-checkmark-round-v2.png" width="96" height="96" loading="lazy" class="success-image" alt="">
+                <div class="contents">
+                    <h4 class="success-title">Pedido efetuado</h4>
+                    <p class="success-message">O seu pedido foi processado com sucesso. Verifique o seu e-mail e confirme a subscrição. Obrigado.</p>
+                </div>
+
+                <div class="button-v2 outlined black js-newsletter-hide-modal">Fechar</div>
+            </div>
+
+		</form>
+
+		<div class="major-error js-newsletter-major-error">De momento não foi possível processar o seu pedido, por favor tente mais tarde</div>
+
+	</div>
+</div>
+<div class="social-bar js-social-bar">
+
+	        <div class="container">
+            <div class="flex-wrapper">
+
+                <div class="text">
+                    <p class="white-text">É tão bom<br> encontrar-nos assim.</p>
+                    <p class="green-text">Em qualquer lado.</p>
+                </div>
+                <div class="icons">
+
+                    <div class="find-us">Encontre-nos em:</div>
+
+                    <div class="icons-wrapper">
+                        <a href="/nova-app-pingo-doce/" class="icon app" aria-label="App"></a>
+                        <a href="https://www.instagram.com/pingodoce/" class="icon insta" aria-label="Instagram"></a>
+                        <a href="https://www.tiktok.com/@pingodoce" class="icon tiktok" aria-label="TikTok"></a>
+                        <a href="https://www.facebook.com/pingodoce/" class="icon fb" aria-label="Facebook"></a>
+                        <a href="https://www.youtube.com/user/pingodocept" class="icon yt" aria-label="YouTube"></a>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+        </div>
+	
+</div>
+<div class="main-footer">
+
+	<div class="container">
+
+		<!-- Footer desktop -->
+		<div class="desktop row">
+			<div class="col-sm-6">
+
+				<img class="logo" src="/wp-content/themes/pingodoce/library/images/v2/logo-footer.png" width="130" height="48" alt="Pingo Doce" loading="lazy">
+
+				<div class="customer-support">
+					<p>Apoio ao cliente</p>
+212 41 08 74 ou 808 20 45 45<br>
+(chamada para a rede fixa nacional)				</div>
+
+				<div class="social-and-app-stores">
+	<a href="https://itunes.apple.com/pt/app/pingo-doce/id1218939596" target="_blank" rel="noopener"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/footer-appstore.png" width="84" height="28" alt="App Store"></a>
+	<a href="https://play.google.com/store/apps/details?id=pt.pingodoce&hl=pt_PT" target="_blank" rel="noopener"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/footer-googleplay.png" width="92" height="28" alt="Google Play"></a>
+</div>				<div class="bottom-links">
+
+	        <div class="desktop--only">
+            <a href="/termos-condicoes/#cookies">Cookies</a>
+            <a href="/termos-condicoes/">Termos e Condições</a>
+            <a href="/termos-condicoes/#dadospessoais">Proteção de Dados Pessoais</a>
+            <a href="/acordo-ortografico">Acordo ortográfico</a>
+            <a href="#" class="ot-sdk-show-settings">Definições de cookies</a>
+        </div>
+        <div class="mobile--only">
+            <div>
+                <a href="/termos-condicoes/#cookies">Cookies</a>
+                <a href="/termos-condicoes/">Termos e Condições</a>
+            </div>
+            <div>
+                <a href="/termos-condicoes/#dadospessoais">Protecção de Dados Pessoais</a>
+                <a href="/acordo-ortografico">Acordo ortográfico</a>
+            </div>
+        </div>
+	
+</div>
+
+			</div>
+			<div class="col-sm-6">
+
+				<div class="newsletter">
+    <span>Newsletter no seu e-mail</span> <span class="button-v2 filled white js-newsletter-show-modal">Subscrever</span>
+</div>
+
+				<!-- Links -->
+<div class="links">
+
+			<div class="wrapper">
+			<a href="/produtos/">Produtos</a>
+			<a href="/receitas/">Receitas</a>
+			<a href="/folhetos/">Folhetos</a>
+			<a href="/lojas/">Lojas</a>
+		</div>
+
+		<div class="wrapper">
+			<a href="/sobre-nos/"><strong>Sobre Nós</strong></a>
+                         <a href="/junte-se-a-nos/"><strong>Junte-se a Nós</strong></a>
+			<a href="/responsabilidade/"><strong>Responsabilidade</strong></a>
+                         <a href="/acessibilidade/">Acessibilidade</a>
+			<a href="/sobre-nos/noticias/">Notícias</a>
+		</div>
+
+		<div class="wrapper">
+                         <a href="https://www.jeronimomartins.pt/" target="_blank" rel="noopener">Grupo Jerónimo Martins <span class="external"></span></a><br>
+			<a href="/apoio-ao-cliente/"><strong>Apoio ao Cliente</strong></a>
+			<a href="/apoio-ao-cliente/#contactos">Contacte-nos</a>
+			<a href="/apoio-ao-cliente/perguntas-frequentes/">Perguntas Frequentes</a>
+                        <a href="/comunicacao-de-irregularidades/">Comunicação de Irregularidades</a>
+		</div>	
+</div>
+<!-- Links -->
+
+			</div>
+		</div>
+		<!-- Footer desktop -->
+
+		<!-- Footer mobile -->
+		<div class="mobile row">
+			<img class="logo" src="/wp-content/themes/pingodoce/library/images/v2/logo-footer.png" width="99" height="37" alt="Pingo Doce" loading="lazy">
+
+			<!-- Links -->
+<div class="links">
+
+			<a href="/produtos">Produtos</a>
+		<a href="/receitas/">Receitas</a>
+		<a href="/folhetos/">Folhetos</a>
+		<a href="/lojas/">Lojas</a>
+		<a href="/sobre-nos/">Sobre Nós</a>
+		<a href="/apoio-ao-cliente/">Apoio ao Cliente</a>
+		<a href="/responsabilidade/">Responsabilidade</a>
+		<a href="/junte-se-a-nos/">Junte-se a Nós</a>	
+</div>
+<!-- Links -->
+
+			<div class="social-and-app-stores">
+	<a href="https://itunes.apple.com/pt/app/pingo-doce/id1218939596" target="_blank" rel="noopener"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/footer-appstore.png" width="84" height="28" alt="App Store"></a>
+	<a href="https://play.google.com/store/apps/details?id=pt.pingodoce&hl=pt_PT" target="_blank" rel="noopener"><img loading="lazy" src="/wp-content/themes/pingodoce/library/images/v2/footer-googleplay.png" width="92" height="28" alt="Google Play"></a>
+</div>			<div class="bottom-links">
+
+	        <div class="desktop--only">
+            <a href="/termos-condicoes/#cookies">Cookies</a>
+            <a href="/termos-condicoes/">Termos e Condições</a>
+            <a href="/termos-condicoes/#dadospessoais">Proteção de Dados Pessoais</a>
+            <a href="/acordo-ortografico">Acordo ortográfico</a>
+            <a href="#" class="ot-sdk-show-settings">Definições de cookies</a>
+        </div>
+        <div class="mobile--only">
+            <div>
+                <a href="/termos-condicoes/#cookies">Cookies</a>
+                <a href="/termos-condicoes/">Termos e Condições</a>
+            </div>
+            <div>
+                <a href="/termos-condicoes/#dadospessoais">Protecção de Dados Pessoais</a>
+                <a href="/acordo-ortografico">Acordo ortográfico</a>
+            </div>
+        </div>
+	
+</div>
+			<div class="newsletter">
+    <span>Newsletter no seu e-mail</span> <span class="button-v2 filled white js-newsletter-show-modal">Subscrever</span>
+</div>
+
+		</div>
+		<!-- Footer mobile -->
+
+		<div class="sitemap">
+	<div class="toggle js-sitemap-toggle">Mapa do Site<span class="arrow"></span></div>
+	<div class="sitemap-container js-sitemap-container">
+
+		
+
+            <div class="level-group">
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/produtos/">Produtos</a>
+                    <span class="title hidden-desktop">Produtos</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/">As Nossas Marcas</a>
+                        <a class="sitemap-links" href="/produtos/frescos/">Frescos</a>
+                        <a class="sitemap-links" href="/produtos/frescos/talho/">Talho</a>
+                        <a class="sitemap-links" href="/produtos/frescos/peixaria/">Peixaria</a>
+                        <a class="sitemap-links" href="/produtos/frescos/fruta-e-legumes/">Fruta e Legumes</a>
+                        <a class="sitemap-links" href="/produtos/comida-fresca/">Take Away</a>
+                    </div>
+                </div>
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/receitas/">Receitas</a>
+                    <span class="title hidden-desktop">Receitas</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/pingodoce-institucional/revista-sabe-bem/">Revista Sabe Bem</a>
+                        <a class="sitemap-links" href="/escola-de-cozinha/tecnicas/">Técnicas</a>
+                        <a class="sitemap-links" href="/receitas/coleccoes/">Coleções</a>
+                        <a class="sitemap-links" href="/receitas/menusemanal/">Menu Semanal</a>
+                        <a class="sitemap-links" href="/receitas/pesquisa/?q=&o=data&categorias=recipe&filtros=&cp=1">Novas receitas</a>
+                        <a class="sitemap-links" href="/receitas/pesquisa/?q=&o=avaliacao&categorias=recipe&filtros=&cp=1">Receitas Populares</a>
+                    </div>
+                </div>
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/folhetos/">Folhetos</a>
+                    <span class="title hidden-desktop">Folhetos</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/folhetos/">Poupe esta Semana</a>
+                        <a class="sitemap-links" href="/folhetos/">Poupe este Fim de Semana</a>
+                        <a class="sitemap-links" href="https://folhetos.pingodoce.pt/catalogos/sem-gluten/#/">Sem Glúten</a>
+                        <a class="sitemap-links" href="https://folhetos.pingodoce.pt/catalogos/sem-lactose/#/">Sem Lactose</a>
+                        <a class="sitemap-links" href="/folhetos/">Vinhos</a>
+                    </div>
+                </div>
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/lojas/">Lojas</a>
+                    <span class="title hidden-desktop">Lojas</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/servicos-loja/restaurante/">Restaurante</a>
+                        <a class="sitemap-links" href="/servicos-loja/cafe-e-bolos/">Café e Bolos</a>
+                        <a class="sitemap-links" href="/servicos-loja/bemestar-saude-e-beleza/">Bem Estar</a>
+                        <a class="sitemap-links" href="/servicos-loja/code-vestuario/">Code</a>
+                        <a class="sitemap-links" href="/servicos-loja/postos-de-combustivel/">Postos de Combustível</a>
+                    </div>
+                </div>
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/app-o-meu-pingo-doce/">O Meu Pingo Doce</a>
+                    <span class="title hidden-desktop">O meu Pingo Doce</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/sobre-nos/cartao-poupa-mais/">Cartão Poupa Mais</a>
+                        <a class="sitemap-links" href="https://bebe.pingodoce.pt/">Clube Bebé</a>
+                        <a class="sitemap-links" href="https://vinho.pingodoce.pt/">Clube Vinho</a>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="level-group">
+
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/marca-propria-pingo-doce/">As Nossas Marcas</a>
+                    <span class="title hidden-desktop">As Nossas Marcas</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/pingo-doce/">Pingo Doce</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/go-active/">Go Active</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/pura-vida/">Pura Vida</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/vinhos-seleccionados-pingo-doce/">Vinhos Seleccionados</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/as-nossas-iguarias-pingo-doce/">As Nossas Iguarias</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/go-bio/">goBio</a>
+                        <a class="hide-desktop sitemap-links" href="/produtos/marca-propria-pingo-doce/cuida-bebe/">Cuida Bebé</a>
+                        <a class="hide-desktop sitemap-links" href="/produtos/marca-propria-pingo-doce/ultra-pro/">Ultra</a>
+                        <a class="hide-desktop sitemap-links" href="/produtos/marca-propria-pingo-doce/be-beauty/">Be Beauty</a>
+                        <a class="hide-desktop sitemap-links" href="/produtos/marca-propria-pingo-doce/skino/">Skino</a>
+                        <a class="hide-desktop sitemap-links" href="/produtos/marca-propria-pingo-doce/activpet/">ActivPet</a>
+                    </div>
+                </div>
+
+                <!-- Hide this one on mobile, repeat the links on top with a special class that hides them in desktop -->
+
+                <div class="first-level hide-mobile">
+                    <div class="second-level extra-paddingtop">
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/cuida-bebe/">Cuida Bebé</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/ultra-pro/">Ultra</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/be-beauty/">Be Beauty</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/skino/">Skino</a>
+                        <a class="sitemap-links" href="/produtos/marca-propria-pingo-doce/activpet/">ActivPet</a>
+                    </div>
+                </div>
+
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/produtos/comida-fresca-takeaway/">Comida Fresca</a>
+                    <span class="title hidden-desktop">Comida Fresca</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/produtos/comida-fresca-takeaway/encomendas/">Encomendas Take Away</a>
+                        <a class="sitemap-links" href="/produtos/comida-fresca-takeaway/encomendas/menu-seleccao-do-chef/">Menu do Chef</a>
+                        <a class="sitemap-links" href="/produtos/comida-fresca-takeaway/encomendas/">Encomendas de Natal</a>
+                        <a class="sitemap-links" href="/produtos/comida-fresca-takeaway/encomendas/">Encomendas de Ano Novo</a>
+                        <a class="sitemap-links" href="/produtos/comida-fresca-takeaway/encomendas/">Encomendas de Páscoa</a>
+                        <a class="sitemap-links" href="/lojas/?servicos=restaurante">Restaurantes</a>
+                    </div>
+                </div>
+
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/lojas/">Serviços</a>
+                    <span class="title hidden-desktop">Serviços</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/servicos-loja/entregas-ao-domicilio/">Entregas ao Domicílio</a>
+                        <a class="sitemap-links" href="/produtos/take-away/encomendas/">Encomendas Take Away</a>
+                        <a class="sitemap-links" href="/servicos-loja/agua-filtrada-eco/">Água Filtrada ECO</a>
+                        <a class="sitemap-links" href="/lojas/?servicos=ecoponto-pilhas">Ecopontos</a>
+                    </div>
+                </div>
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/sobre-nos/">Sobre Nós</a>
+                    <span class="title hidden-desktop">Sobre Nós</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/sobre-nos/noticias/">Notícias</a>
+                        <a class="sitemap-links" href="/sobre-nos/cartao-poupa-mais/">Cartão Poupa Mais</a>
+                        <a class="sitemap-links" href="/sobre-nos/cartao-presente-pingo-doce/">Cartão Presente</a>
+                        <a class="sitemap-links" href="/sobre-nos/cartao-bom-pingo-doce/">Cartão Bom</a>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+            <div class="level-group">
+
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/responsabilidade/">Responsabilidade</a>
+                    <span class="title hidden-desktop">Responsabilidade</span>
+                    <div class="second-level">
+                        <span class="info">Áreas Prioritárias</span>
+                        <a class="sitemap-links" href="/responsabilidade/#pilares-1">Saúde pela alimentação</a>
+                        <a class="sitemap-links" href="/responsabilidade/#pilares-2">Biodiversidade</a>
+                        <a class="sitemap-links" href="/responsabilidade/#pilares-3">Pessoas</a>
+                        <a class="sitemap-links" href="/responsabilidade/#pilares-4">Literacia infantojuvenil</a>
+                        <a class="sitemap-links" href="/responsabilidade/#pilares-5">Ser solidário</a>
+
+                        <span class="info hidden-desktop">Iniciativas</span>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/amar-o-mar/">Amar o Mar</a>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/bairro-feliz/">Bairro Feliz</a>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/dieta-mediterranica/">Juliana, Dieta Mediterrânica à portuguesa</a>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/ecodesign-embalagens/">Ecodesign</a>
+                        <a class="sitemap-links hide-desktop" href="https://menossalportugal.pt/" target="_blank">Menos Sal Portugal</a>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/pescado-sustentavel/">Pescado Sustentável</a>
+                        <a class="sitemap-links hide-desktop" href="/responsabilidade/premio-literatura-infantil/">Prémio de Literatura Infantil</a>
+                    </div>
+                </div>
+
+                <div class="first-level hide-mobile">
+                    <div class="second-level extra-paddingtop">
+                        <span class="info">Iniciativas</span>
+                        <a class="sitemap-links" href="/responsabilidade/amar-o-mar/">Amar o Mar</a>
+                        <a class="sitemap-links" href="/responsabilidade/bairro-feliz/">Bairro Feliz</a>
+                        <a class="sitemap-links" href="/responsabilidade/dieta-mediterranica/">Juliana, Dieta Mediterrânica à portuguesa</a>
+                        <a class="sitemap-links" href="/responsabilidade/ecodesign-embalagens/">Ecodesign</a>
+                        <a class="sitemap-links" href="https://menossalportugal.pt/" target="_blank">Menos Sal Portugal</a>
+                        <a class="sitemap-links" href="/responsabilidade/pescado-sustentavel/">Pescado Sustentável</a>
+                        <a class="sitemap-links" href="/responsabilidade/premio-literatura-infantil/">Prémio de Literatura Infantil</a>
+                    </div>
+                </div>
+
+
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/apoio-ao-cliente/">Ajuda</a>
+                    <span class="title hidden-desktop">Ajuda</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/apoio-ao-cliente/#contactos">Contactos</a>
+                        <a class="sitemap-links" href="/apoio-ao-cliente/perguntas-frequentes/">Perguntas Frequentes</a>
+                        <a class="sitemap-links hidden-mobile" href="/covid-19/" style="margin-top:30px;font-weight:bold;">Covid-19</a>
+                    </div>
+                </div>
+
+                <div class="first-level hidden-desktop">
+                    <a class="title covid-sitemap hidden" href="/covid-19/">Covid-19</a>
+                    <a class="sitemap-links" href="/covid-19/" style="color: #fff;text-decoration: none;cursor: pointer;font-size: 12px;display: block;font-weight: 700;padding: 5px 0;">Covid-19</a>
+                </div>
+
+                <div class="first-level">
+                    <a class="title hidden-mobile" href="/junte-se-a-nos/">Junte-se a Nós</a>
+                    <span class="title hidden-desktop">Junte-se a Nós</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="/junte-se-a-nos/">Recrutamento</a>
+                        <a class="sitemap-links" href="/junte-se-a-nos/oportunidades/">Oportunidades</a>
+                        <a class="sitemap-links" href="/junte-se-a-nos/">Candidatura Espontânea</a>
+                        <a class="sitemap-links" href="/junte-se-a-nos/perguntas-respostas/">Perguntas e Respostas</a>
+                    </div>
+                </div>
+
+                <div class="first-level">
+                    <span class="title gray">Links Externos</span>
+                    <div class="second-level">
+                        <a class="sitemap-links" href="https://www.jeronimomartins.com/pt/" target="_blank">Grupo Jerónimo Martins</a>
+                        <a class="sitemap-links" href="https://www.be-the-story.com/pt" target="_blank">Be The Story</a>
+                        <a class="sitemap-links" href="https://mercadao.pt/store/pingo-doce" target="_blank">Mercadão</a>
+                        <a class="sitemap-links" href="https://www.poupamais.pt/" target="_blank">Cartão Poupa Mais</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+		
+
+	</div>
+</div>
+
+	</div>
+
+</div>
+
+
+		
+        
+        <script>
+                        var PAGE_MODULES = ["accordion","sliderProductDetails","productRecycling"];
+                    </script>
+		<script src="https://www.pingodoce.pt/wp-content/themes/pingodoce/library/scripts/v2-app-e744baa05d.js" defer></script>
+
+        <script>
+var productSearchBarEl = document.querySelector('.js-product-search-form input[name="q"]');
+if (productSearchBarEl) {
+
+	// Fix for search bar url
+	if (productSearchBarEl.value == '/produtos/marca-propria-pingo-doce/' || productSearchBarEl.value.includes('marca-propria-pingo-doce') ) {
+		productSearchBarEl.value = '';
+	}
+
+	// Fix for initial search by URL with tax filters
+	var taxFiltersCount = document.querySelectorAll('.js-product-search-form input[name="taxonomy[]"]:checked').length;
+	if (taxFiltersCount > 0) {
+
+		window.addEventListener('load', () => {
+			setTimeout(() => {
+				document.querySelector('.js-product-search-form').dispatchEvent(new CustomEvent('submit', {cancelable: true}));
+			}, 1000);
+		});
+		
+	}
+
+
+}
+</script>
+	</body>
+
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 130/265 objects using memcached
+
+Served from: www.pingodoce.pt @ 2023-03-19 17:54:47 by W3 Total Cache
+-->
